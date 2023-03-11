@@ -1,2 +1,2 @@
-# taste-of-maria
+# vyf-networks-inc
 mini-project-1
